@@ -78,7 +78,7 @@
   .contact-info li {
     margin-bottom: 0.25rem;
   }
-  div eye-container{
+  .eye-container{
     border-radius: 50%;
     height: 0;
     overflow: hidden;
