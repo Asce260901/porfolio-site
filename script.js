@@ -1,3 +1,3 @@
-alert ("Welcome to my protfolio")
+alert ("Welcome to my protfolio");
 console.log("hello world");
 
